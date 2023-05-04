@@ -1,2 +1,1 @@
-# wrb
-web_reports_backend
+# небольшой пет-проект
